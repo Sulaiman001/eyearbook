@@ -1,4 +1,4 @@
 eyearbook
 =========
 
-Electronic Year book designed in part,yet to finish
+Electronic Year book, a shift from the normal paper year book
